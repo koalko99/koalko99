@@ -18,9 +18,7 @@
 ## My stats
 
 <div align="center">
-    <img style="height: 200px" src="https://github-readme-stats-beta-six-89.vercel.app/api?username=koalko99&show_icons=true&theme=slateorange&bg_color=00000000&border_color=FF0000&text_color=808080&title_color=FF0000&icon_color=FF0000" />
     <img style="height: 200px" src="https://github-readme-stats-beta-six-89.vercel.app/api/top-langs?username=koalko99&layout=compact&theme=slateorange&bg_color=00000000&border_color=FF0000&text_color=808080&title_color=FF0000&langs_count=8&card_width=320" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=koalko99&bg_color=00000000&title_color=FF0000&color=808080&line=FF0000&point=808080&radius=10" />
 </div>
 
 ## Languages
