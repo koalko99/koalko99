@@ -117,7 +117,7 @@ Asynchronous schedule parser and Telegram bot for students and teachers.
 <div align="center">
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-south-season-animate.svg" width="900">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="900">
 </p>
 
 </div>
