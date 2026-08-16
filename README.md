@@ -50,6 +50,12 @@ Currently focused on:
 
 `Docker` `Linux` `Git` `JUnit 5` `JaCoCo` `Maven`
 
+### Resume
+
+[📄 Русское CV](./Тимофей_Логвин_CV.pdf)
+
+[📄 English CV](./Timothy_Logvin_CV.pdf)
+
 ## Featured Projects
 
 ### PS Store Tracker
