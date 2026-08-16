@@ -120,8 +120,4 @@ Asynchronous schedule parser and Telegram bot for students and teachers.
   <img src="./profile-3d-contrib/profile-south-season-animate.svg" width="900">
 </p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=koalko99&show_icons=true&hide_border=true&theme=transparent&title_color=C70C0C&icon_color=C70C0C&text_color=808080" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koalko99&layout=compact&hide_border=true&theme=transparent&title_color=C70C0C&text_color=808080&langs_count=8" />
-
 </div>
