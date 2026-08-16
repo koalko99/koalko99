@@ -52,9 +52,9 @@ Currently focused on:
 
 ### Resume
 
-[📄 Русское CV](./Тимофей_Логвин_CV.pdf)
+[📄 Русское CV](https://drive.google.com/file/d/1AOsogYDxzWbA3GQ7TcK1DwEx2IC1aLUF/view?usp=sharing)
 
-[📄 English CV](./Timothy_Logvin_CV.pdf)
+[📄 English CV](https://drive.google.com/file/d/1zjvRfZ0oAXJB-rGrvlmwwh5DLh53smHS/view?usp=sharing)
 
 ## Featured Projects
 
