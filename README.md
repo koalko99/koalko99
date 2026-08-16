@@ -1,54 +1,127 @@
 <div align="center">
-    <img align="center" src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&color=C70C0C&lines=Hello+friend,+my+name+is+Koalko;Building+backend+systems;Powered+by+caffeine;Stack+traces+included;I+use+Arch+btw" />
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=C70C0C&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+backend+systems;Spring+Boot+%7C+PostgreSQL+%7C+Kafka;Powered+by+caffeine+and+stack+traces" />
 
 <br>
 
-[![GMail](https://img.shields.io/badge/koalko99-red?logo=gmail&logoColor=white)](mailto:koalko99@gmail.com)
-[![Telegram](https://img.shields.io/badge/Koalko101-blue?logo=telegram&logoColor=white)](https://t.me/Koalko101) 
-[![LeetCode](https://img.shields.io/badge/Koalko-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Koalko/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:koalko99@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/Koalko101)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Koalko/)
 
-## About me
+</div>
 
-- Software Enginer (Python/Java)
-- I automate business processes, parsing, API integrations, and backend services.
-- I study at [![BSU](https://img.shields.io/badge/BSU-Belarusian%20State%20University-blue?labelColor=white)](https://www.bsu.by/)
-- Currently taking a Java development course at [![T-Academy](https://img.shields.io/badge/Academy-gray?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOSIgaGVpZ2h0PSIzNCIgdmlld0JveD0iMCAwIDI5IDM0IiBmaWxsPSJub25lIj48c2NyaXB0IHhtbG5zPSIiIGlkPSJlcHBpb2NlbWhtbmxiaGpwbGNna29mY2lpZWdvbWNvbiIvPjxzY3JpcHQgeG1sbnM9IiIvPjxzY3JpcHQgeG1sbnM9IiIvPgo8cGF0aCBkPSJNMCAyLjk5OTc2SDI5VjE3LjU4NDdDMjkgMjEuMzIzNiAyNy4wMDU0IDI0Ljc3ODYgMjMuNzY3NiAyNi42NDgzTDE0LjUgMzEuOTk5OEw1LjIzMjQ2IDI2LjY0ODNDMS45OTQ1OCAyNC43Nzg2IDMuMzIzNzdlLTA2IDIxLjMyMzYgMy4zMjM3N2UtMDYgMTcuNTg0N0wwIDIuOTk5NzZaIiBmaWxsPSIjRkZERDJEIi8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNOCAxMC45OTk4VjE1LjU1ODNDOC42MTY0MSAxNC44NTQzIDkuNzM3MTUgMTQuMzc3OSAxMS4wMTg2IDE0LjM3NzlIMTIuNDExMVYxOS42NzcxQzEyLjQxMTEgMjEuMDg3IDEyLjAzMjMgMjIuMzIxIDExLjQ3MDMgMjIuOTk5OEgxNy41Mjc2QzE2Ljk2NjcgMjIuMzIwMyAxNi41ODg4IDIxLjA4NzkgMTYuNTg4OCAxOS42Nzk4VjE0LjM3NzlIMTcuOTgxNEMxOS4yNjI4IDE0LjM3NzkgMjAuMzgzNiAxNC44NTQzIDIxIDE1LjU1ODNWMTAuOTk5OEMyMSAxMC45OTk4IDggMTAuOTk5OCA4IDEwLjk5OThaIiBmaWxsPSIjMzMzMzMzIi8+Cjwvc3ZnPg==)](https://education.tbank.ru/academy/backend/)
+## About
 
-## My stats
+I'm a backend developer focused on Java and Python.
+
+I build backend services, REST APIs, integrations and automation tools, with a strong interest in distributed systems, high-load applications and fintech.
+
+Currently focused on:
+
+* Java & Spring Boot
+* PostgreSQL, Redis & Kafka
+* Docker & Linux
+* Algorithms, concurrency and JVM internals
+
+## Studying
+
+🎓 Belarusian State University</br>
+☕ T-Academy — Java Backend
+
+## Tech Stack
 
 <div align="center">
-    <img style="height: 200px" src="https://github-readme-stats-beta-six-89.vercel.app/api/top-langs?username=koalko99&layout=compact&theme=slateorange&bg_color=00000000&border_color=FF0000&text_color=808080&title_color=FF0000&langs_count=8&card_width=320" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,redis,kafka,docker,linux,git,maven" />
+
 </div>
 
-## Languages
+### Backend
 
-<div align="left">
-    <img width=50 height=50 src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-    <img width=50 height=50 src="https://www.svgrepo.com/show/452091/python.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
-</div>
+`Java` `Spring Boot` `Spring Data` `Spring Security`
+`Python` `FastAPI` `Quart` `aiohttp`
+`REST` `gRPC` `AsyncIO`
 
-## Technologies
+### Data & Messaging
 
-<div align="left">
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
-    <img width=50 height=50 src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" />
-    <img width=50 height=50 src="https://quart.palletsprojects.com/en/latest/_static/quart-logo.svg" />
-    <img width=50 height=50 src="https://docs.aiohttp.org/en/stable/_static/aiohttp-plain.svg" />
-    <img width=50 height=50 src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/e/ef/CMake_logo.svg" />
-    <img width=50 height=50 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWY3tZknoxxlxwhvsUXJUlSigJjazUrTYazw&s" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />
-</div>
+`PostgreSQL` `Redis` `Kafka` `SQLite`
 
-## Tools
+### Engineering
 
-<div align="left">
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" />
+`Docker` `Linux` `Git` `JUnit 5` `JaCoCo` `Maven`
+
+## Featured Projects
+
+### PS Store Tracker
+
+Backend service for tracking PlayStation Store data and automating price/content monitoring.
+
+**Focus:** external APIs · parsing · asynchronous processing · persistence · automation
+
+[Repository](https://github.com/Koalko99/ps-store-tracker)
+
+---
+
+### Fractal Flame
+
+Multithreaded Java implementation of the Fractal Flame algorithm based on Chaos Game.
+
+**Highlights:**
+
+* Single-threaded and multithreaded rendering
+* Multiple transformation functions
+* JSON and CLI configuration
+* Input validation
+* PNG generation
+* Automated tests
+
+**Stack:** `Java` `Maven` `JUnit` `Concurrency`
+
+[Repository](https://github.com/Koalko99/fractal-flame)
+
+---
+
+### Labyrinths
+
+Java application for procedural maze generation and path finding.
+
+**Implemented algorithms:**
+
+`DFS` `Hunt-and-Kill` `Kruskal` `Prim`
+`BFS` `Dijkstra` `A*` `Lee`
+
+**Stack:** `Java` `Maven` `JUnit` `Docker`
+
+[Repository](https://github.com/Koalko99/labyrinths)
+
+---
+
+### ISEI Schedule
+
+Asynchronous schedule parser and Telegram bot for students and teachers.
+
+**Highlights:**
+
+* Async parser and bot working in parallel
+* Teacher and student profiles
+* Schedule caching
+* Telegram interface
+* Works independently from the university website
+
+**Stack:** `Python` `Aiogram` `BeautifulSoup` `SQLite` `AsyncIO`
+
+[Repository](https://github.com/Koalko99/isei-schedule)
+
+## GitHub Stats
+
+<div align="center">
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-south-season-animate.svg" width="900">
+</p>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=koalko99&show_icons=true&hide_border=true&theme=transparent&title_color=C70C0C&icon_color=C70C0C&text_color=808080" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koalko99&layout=compact&hide_border=true&theme=transparent&title_color=C70C0C&text_color=808080&langs_count=8" />
+
 </div>
