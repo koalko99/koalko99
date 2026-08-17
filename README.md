@@ -52,9 +52,9 @@ Currently focused on:
 
 ### Resume
 
-[📄 Русское CV](https://drive.google.com/file/d/1AOsogYDxzWbA3GQ7TcK1DwEx2IC1aLUF/view?usp=sharing)
+[📄 English CV](https://drive.google.com/file/d/19_Rdpr1kh_GY7uxOC5xl8WphGCTMd6Wy/view?usp=sharing)
 
-[📄 English CV](https://drive.google.com/file/d/1zjvRfZ0oAXJB-rGrvlmwwh5DLh53smHS/view?usp=sharing)
+[📄 Russian CV](https://drive.google.com/file/d/1FyYbmkZ_19z3-sh8XT9SbTyVAdsNm30E/view?usp=sharing)
 
 ## Featured Projects
 
