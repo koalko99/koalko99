@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=C70C0C&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+backend+systems;Spring+Boot+%7C+PostgreSQL+%7C+Kafka;Powered+by+caffeine+and+stack+traces" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=C70C0C&center=true&vCenter=true&width=700&lines=Hello,+I'm+Timothy;Java+Backend+Developer;Powered+by+caffeine+and+stack+traces" />
 
 <br>
 
